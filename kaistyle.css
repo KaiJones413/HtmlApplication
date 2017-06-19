@@ -1,0 +1,47 @@
+body {
+	color: red;
+}
+h1 {
+	color: red;
+	font-size: 50px;
+}
+img {
+	height: 150px;
+}
+html {
+	background-image: url("Kingkai.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#start {
+	text-align: center
+}
+	
+#heading {
+	color: black;
+	font-style: Bold;
+	font-size: 30px;
+
+}
+	
+#bio {
+	color: black;
+	font-style: Bold;
+	font-size: 20px;
+}
+.uppercase {
+	text transform:
+	uppercase;
+}
+a:link {
+	color:blue;
+}
+a:visited {
+color: red;
+}
+a:hover {
+	color: orange;
+}
+a:active {
+	color: white;
+}

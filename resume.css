@@ -1,0 +1,41 @@
+body {
+	padding: 13px;
+	color: red;
+	font-size: 18px;
+	border: 5px solid red;
+}
+h1 {
+	color: blue;
+	font-size: 30px;
+}
+h2 {
+	color: blue;
+}
+h3 {
+	color: blue;
+}
+img {
+	height: 150px;
+}
+html {
+	background-image: url("King-kai.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.uppercase {
+	text transform:
+	uppercase;
+}
+a:link {
+	color:blue;
+}
+a:visited {
+color: red;
+}
+a:hover {
+	color: orange;
+}
+a:active {
+	color: white;
+}
